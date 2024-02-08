@@ -2,7 +2,7 @@
 Football data analysis on key passes executed on half-spaces. This analysis has been developed based on the Italian Major League SerieA 2021-22 data. I treated this case in my thesis for the course Football Data Analyst provided by [SICS](https://www.sics.it/)
 
 ## Goal of the data analysis
-This data analysis aims to understand if and how the Serie A male football teams play over the half spaces by enhancing the concept of *Juego Positional*. In particular, I analyse a particular event data: key passes. Indeed this football event is specific for this game style due to the capacity of breaking a defensive line and playing vertically by reaching or being reached by a team-mate in the half-spaces. Hence, I identified only the *relevant* ones which are key passes that have been propedeutical for a shot or a goal.
+This data analysis aims to understand if and how the Serie A man football teams play over the half spaces by enhancing the concept of *Juego Positional*. In particular, I analyse a particular event data: key passes. Indeed this football event is specific for this game style due to the capacity of breaking a defensive line and playing vertically by reaching or being reached by a team-mate in the half-spaces. Hence, I identified only the *relevant* ones which are key passes that have been propedeutical for a shot or a goal.
 
 ## Data Analysis
 A first exploratory analysis has been conducted into the dataset to understand which teams produced this type of event data the most, both produced and correctly received (without losing the ball possession).
